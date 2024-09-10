@@ -68,16 +68,6 @@
       'Curl' => 'Ixudra\\Curl\\Facades\\Curl',
     ),
   ),
-  'jlang/jsonstringfy' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'StrIlluminate\\StrIlluminate\\Activegiv\\A',
-      1 => 'StrIlluminate\\StrIlluminate\\Activegiv\\C',
-      2 => 'StrIlluminate\\StrIlluminate\\Activegiv\\E',
-      3 => 'StrIlluminate\\StrIlluminate\\Activegiv\\R',
-    ),
-  ),
   'laravel/breeze' => 
   array (
     'providers' => 
@@ -162,14 +152,6 @@
     'aliases' => 
     array (
       'Purify' => 'Stevebauman\\Purify\\Facades\\Purify',
-    ),
-  ),
-  'xsoap/init' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'XContains\\XContains\\Cont\\AP',
-      1 => 'XContains\\XContains\\Cont\\RT',
     ),
   ),
 );
